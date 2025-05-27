@@ -25,7 +25,7 @@ int main() {
     struct carta_estrutura carta_1, carta_2;
 
     printf(">>> Cadastro da Primeira Carta <<<\n");
-    printf("⚠️ Observação: Use ponto (.) para separar casas decimais.\n");
+    printf("Observação: Use ponto (.) para separar casas decimais.\n");
     printf("Informe o PIB em milhões. Ex.: 17.6 significa 17,6 milhões.\n\n");
 
     // Dados da primeira carta
